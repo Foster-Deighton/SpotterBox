@@ -6,7 +6,7 @@ SpotterBox is an IOS app, hosting a social platform for the Curation, Discovery 
 * Used Flutter to develop a beautiful front end 
 
 
-![Image 1](assets/IMG_0113.PNG)
-![Image 2](assets/IMG_0114.PNG)
-![Image 3](assets/IMG_0115.PNG)
-![Image 5](assets/IMG_0117.PNG)
+![Image 1](music_compare_app/assets/IMG_0113.PNG)
+![Image 2](music_compare_app/assets/IMG_0114.PNG)
+![Image 3](music_compare_app/assets/IMG_0115.PNG)
+![Image 5](music_compare_app/assets/IMG_0117.PNG)
