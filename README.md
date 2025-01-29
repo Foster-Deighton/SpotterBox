@@ -4,3 +4,9 @@ SpotterBox is an IOS app, hosting a social platform for the Curation, Discovery 
 * Utilized a secure cloud-based backend to ensure accuracy, stability and retention of all user characteristics & activities
 * Implemented the Spotify API to link users' Spotify accounts directly into the app, and fetch song & album data
 * Used Flutter to develop a beautiful front end 
+
+
+![Image 1](assets/IMG_0113.png)
+![Image 2](assets/IMG_0114.png)
+![Image 3](assets/IMG_0115.png)
+![Image 5](assets/IMG_0117.png)
